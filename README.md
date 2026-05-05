@@ -1,0 +1,1 @@
+Este es un proyecto para probar el funcionamiento de claude code
